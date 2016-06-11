@@ -1,0 +1,21 @@
+{
+  "name": "weatherdest",
+  "version": "1.0.0",
+  "description": "This application will gather weather data and address information for any landmark or location.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Weather",
+    "Zip",
+    "Geocoding"
+  ],
+  "author": "Ahmed Haque",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.72.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.3.0"
+  }
+}
